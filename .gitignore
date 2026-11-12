@@ -1,0 +1,6 @@
+node_modules
+dist
+.next
+evals/last-report.json
+.env.local
+20250106000000_collaboration.sql.
